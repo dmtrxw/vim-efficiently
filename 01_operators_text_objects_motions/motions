@@ -1,0 +1,12 @@
+Motions
+
+%                => go to first matching paren/bracket
+[count]+         => down to first non-blank char of line
+[count]$         => to end of line
+[count]f/F{char} => to next occurence of {char}
+[count]t/T{char} => to before next occurence of {char}
+[count]h/j/k/l   => left, down, up, or right
+[count]]m        => go to beginning of next method
+[count]w         => go a word to the right
+[count]b         => go a word to the left
+[count]e         => go to end of word right

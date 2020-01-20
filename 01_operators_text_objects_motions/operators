@@ -1,0 +1,12 @@
+Operators
+
+c  => change
+d  => delete
+y  => yank into register
+~  => swap case
+gu => make lowercase
+gU => make uppercase
+!  => filter to external program
+<  => shift left
+>  => shift right
+=  => indent
