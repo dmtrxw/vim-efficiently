@@ -1,0 +1,16 @@
+Scrolling
+
+H      => High
+M      => Mid
+L      => Low
+
+zt     => Put current cursor position to top of screen
+zz     => Put current cursor position to middle of screen
+zb     => Put current cursor position to bottom of screen
+
+Ctrl+u => Move half screen to top
+Ctrl+d => Move half screen to bottom
+Ctrl+y => Scroll up
+Ctrl+e => Scroll down
+Ctrl+b => Move one screen to top
+Ctrl+f => Move one screen to bottom

@@ -1,0 +1,6 @@
+Marks
+
+The bookmarks of Vi
+
+m{a-zA-Z} => sets a custom mark whose exact location can be accessed using `{mark}
+:marks    => shows all the current marks that are being used

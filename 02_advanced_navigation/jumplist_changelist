@@ -1,0 +1,4 @@
+Jumplist / Changelist
+
+Ctrl+o / Ctrl+i => Cycle through :jumps
+g; / g,         => Cycle through :changes

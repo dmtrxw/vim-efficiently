@@ -1,0 +1,12 @@
+Searching
+
+/{patt}[/]<CR> => search for {patt}
+/<CR>          => search for last used pattern
+?{patt}[?]<CR> => search back for {patt}
+?<CR>          => search back for last used pattern
+[count]n       => repeat last search [count] times
+[count]N       => same as above, opposite direction
+*              => search forward for word under cursor
+#              => same as above, opposite direction
+gd             => go to local declaration
+:hls!          => toggle search highlighting

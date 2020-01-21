@@ -1,0 +1,7 @@
+Editing
+
+:e[dit] [++opt] [+cmd] {file}
+:fin[d] [!] [++opt] [+cmd] {file}
+
+gf     => Go to file
+Ctrl+^ => Switching buffer
