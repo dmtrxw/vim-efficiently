@@ -1,0 +1,9 @@
+MANTRA:
+- Tabs for window containers
+- Windows for buffer viewports
+- Buffers for file proxies (and the arglist)
+
+
+When you start using Vim, do not create a tab for every file you make, that's
+not what tabs were designed for. They're designed to separate window
+collections.

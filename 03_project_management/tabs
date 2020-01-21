@@ -1,0 +1,7 @@
+Tabs - window containers
+
+gt    => go to next tab
+gT    => go to prev tab
+:tabc => close tab
+:tabe => open tab
+:tabo => close all other tabs
