@@ -2,9 +2,10 @@ Syntax:
 [count][operator][text object/motion]
 
 Examples:
+%    => jump to match of next paren of bracket
+k    => go up
 6+   => 6x go down to line start
 gUaW => capitalize a word
 3ce  => 3x change to word end
 4$   => 4x go to end of line
 d]m  => delete to start of next method
-%    => jump to match of next paren of bracket
