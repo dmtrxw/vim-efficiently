@@ -1,5 +1,7 @@
+Syntax:
 [count][operator][text object/motion]
 
+Examples:
 6+   => 6x go down to line start
 gUaW => capitalize a word
 3ce  => 3x change to word end
